@@ -12,32 +12,23 @@ Mich in c# vertiefen(mein console snake game verbessern) und parallel dazu java 
 23.2.2024
 Heute habe ich über mein zukünftiges Projekt nachgedacht und bin zu dem Schluss gekommen, dass ich mein Snake-Spiel in C# verbessern möchte, da es viele Verbesserungsmöglichkeiten bietet. Zusätzlich habe ich beschlossen, parallel dazu Java zu lernen. Ich habe heute einen Bug behoben, der manchmal dazu führte, dass ich zufällig sterbe, ohne etwas falsch zu machen. Ausserdem habe ich mir ein Einführungstutorial für die Programmiersprache Java angesehen. Am Ende vom tag habe ich mir noch vorgenommen die basic commands von Java zu lernen, dass ich sie das nächste mal anwenden kann. (87)
 
-Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
-------------------------------------------------------------------------------
-1      |      |      |	
-------------------------------------------------------------------------------
-2      |      |      |
-------------------------------------------------------------------------------
-3      |      |      |
-------------------------------------------------------------------------------
-4	 |      |      |		
-------------------------------------------------------------------------------
+| Testfall-Nummer	| Ausgangslage (Given) |	Eingabe (When)|	Ausgabe (Then)	| Erfüllt?|
+|-----------------|----------------------|----------------|-----------------|---------|
+1 | Thema für die LP-4 auswählen  | Auswahlmöglichkeiten anzeigen  | Ein passendes Thema ausgewählt  | Ja  |
+2 | Java tutorial anschauen  | Auf die Website des Tutorials gehen  | Wissen für das Programmieren erlangt  | Nein  |
+3 | Buggs im Snake behoben  | Fehleranalyse durchführen  | Der Bugg der das Spiel zum Einstürzen bringt behebt  | Ja  |
 27.2.2024
-- [ ] .
-- [ ] .
-- [ ] .
-- [ ] .
+- [ ] Ein Java tutorial über die basics strudieren sodass ich ein notenrechner erstellen kann
+- [ ] mein wissen vom tutorial an einem Program fürs erstellen des Notenrechners anwenden
+- [ ] Mein Snake game verbessern, sodass ich am Anfang einen Knopf drücken muss sodass das Spiel startet und alles in einem Loop versetzen
+- [ ] Mein Bugg der am Anfang des Spiels passiert (dass der Snake erst nach 3 Früchte anfängt zu wachsen) beheben
       
-Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
-------------------------------------------------------------------------------
-1				
-------------------------------------------------------------------------------
-2
-------------------------------------------------------------------------------
-3
-------------------------------------------------------------------------------
-4				
-------------------------------------------------------------------------------
+| Testfall-Nummer	| Ausgangslage (Given) |	Eingabe (When)|	Ausgabe (Then)	| Erfüllt?|
+|-----------------|----------------------|----------------|-----------------|---------|
+1 |   |   |   |   |
+2 |   |   |   |   |
+3 |   |   |   |   |
+4 |   |   |   |   |
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt

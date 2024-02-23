@@ -12,10 +12,11 @@ Was wäre ein geeignetes Projekt für diese LP4?
 ✍️ Heute habe ich... (50-100 Wörter)
 
 27.2.2024
-- [ ] 
-- [ ] 
-- [ ]
-- [ ] 
+- [ ] .
+- [ ] .
+- [ ] .
+- [ ] .
+      
 Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
 ------------------------------------------------------------------------------
 1				

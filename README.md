@@ -19,7 +19,7 @@ Heute habe ich über mein zukünftiges Projekt nachgedacht und bin zu dem Schlus
 3 | Buggs im Snake behoben  | Fehleranalyse durchführen  | Der Bugg der das Spiel zum Einstürzen bringt behebt  | Ja  |
 27.2.2024
 - [x] Ein Java tutorial über die basics strudieren sodass ich ein notenrechner erstellen kann
-- [x] Mein wissen vom tutorial an einem Program fürs erstellen des Notenrechners anwenden
+- [ ] Mein wissen vom tutorial an einem Program fürs erstellen des Notenrechners anwenden
 - [ ] Mein Snake game verbessern, sodass ich am Anfang einen Knopf drücken muss sodass das Spiel startet und alles in einem Loop versetzen
 - [x] Mein Bugg der am Anfang des Spiels passiert (dass der Snake erst nach 5 Früchte anfängt zu wachsen) beheben
       
@@ -30,7 +30,7 @@ Heute habe ich über mein zukünftiges Projekt nachgedacht und bin zu dem Schlus
 3 | Mein Snake game verbessern, sodass ich am Anfang einen Knopf drücken muss sodass das Spiel startet und alles in einem Loop versetzen  | den Code in einer Loop versetzten und ein start befehl hinzufügen  | der Spieler startet mit einer GUI und kann das Spiel wiederhollen nach dem Tod  | Nein  |
 4 | Mein Bugg der am Anfang des Spiels passiert (dass der Snake erst nach 5 Früchte anfängt zu wachsen) beheben  | Fehleranalayse durchführen  | Snake wird nach einer Frucht grösser  | Nein  |
 
-✍️heute habe ich erfolgreich grundlegende Java-Kenntnisse aus einem Tutorial gelernt, um einen einfachen Notenrechner zu erstellen. Allerdings stellten sich die Bemühungen zur Verbesserung meines Snake Spiels und zur Behebung von Bugs als herausfordernder als erwartet. Trotz langer Fehleranalyse bleibt das Problem bestehen, dass das Spiel nicht ordnungsgemäss startet und dass das Spiel nicht in einem Loop versetzt ist. Es werden weitere Anpassungen benötigt, um diese Probleme zu lösen und mein Snake Spiel zu beenden. (58)
+✍️heute habe ich erfolgreich grundlegende Java-Kenntnisse aus einem Tutorial gelernt, um einen einfachen Notenrechner zu erstellen. Allerdings kamen Probleme beim Download der IDE fürs Programmieren auf und konnte somit heute nicht in Java Programmieren. Esstellten sich die Bemühungen zur Verbesserung meines Snake Spiels und zur Behebung von Bugs als herausfordernder als erwartet. Trotz langer Fehleranalyse bleibt das Problem bestehen, dass das Spiel nicht ordnungsgemäss startet und dass das Spiel nicht in einem Loop versetzt ist. Es werden weitere Anpassungen benötigt, um diese Probleme zu lösen und mein Snake Spiel zu beenden. (74)
 
 
 

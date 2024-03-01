@@ -30,9 +30,14 @@ Heute habe ich über mein zukünftiges Projekt nachgedacht und bin zu dem Schlus
 3 | Mein Snake game verbessern, sodass ich am Anfang einen Knopf drücken muss sodass das Spiel startet und alles in einem Loop versetzen  | den Code in einer Loop versetzten und ein start befehl hinzufügen  | der Spieler startet mit einer GUI und kann das Spiel wiederhollen nach dem Tod  | Nein  |
 4 | Mein Bugg der am Anfang des Spiels passiert (dass der Snake erst nach 5 Früchte anfängt zu wachsen) beheben  | Fehleranalayse durchführen  | Snake wird nach einer Frucht grösser  | Nein  |
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️heute habe ich erfolgreich grundlegende Java-Kenntnisse aus einem Tutorial gelernt, um einen einfachen Notenrechner zu erstellen. Allerdings stellten sich die Bemühungen zur Verbesserung meines Snake Spiels und zur Behebung von Bugs als herausfordernder als erwartet. Trotz langer Fehleranalyse bleibt das Problem bestehen, dass das Spiel nicht ordnungsgemäss startet und dass das Spiel nicht in einem Loop versetzt ist. Es werden weitere Anpassungen benötigt, um diese Probleme zu lösen und mein Snake Spiel zu beenden. (58)
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
+
+
+
+
+
+ 
 
 Reflexion
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).

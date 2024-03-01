@@ -17,6 +17,7 @@ Heute habe ich über mein zukünftiges Projekt nachgedacht und bin zu dem Schlus
 1 | Thema für die LP-4 auswählen  | Auswahlmöglichkeiten anzeigen  | Ein passendes Thema ausgewählt  | Ja  |
 2 | Java tutorial anschauen  | Auf die Website des Tutorials gehen  | Wissen für das Programmieren erlangt  | Nein  |
 3 | Buggs im Snake behoben  | Fehleranalyse durchführen  | Der Bugg der das Spiel zum Einstürzen bringt behebt  | Ja  |
+
 27.2.2024
 - [x] Ein Java tutorial über die basics strudieren sodass ich ein notenrechner erstellen kann
 - [ ] Mein wissen vom tutorial an einem Program fürs erstellen des Notenrechners anwenden
@@ -32,6 +33,11 @@ Heute habe ich über mein zukünftiges Projekt nachgedacht und bin zu dem Schlus
 
 ✍️heute habe ich erfolgreich grundlegende Java-Kenntnisse aus einem Tutorial gelernt, um einen einfachen Notenrechner zu erstellen. Allerdings kamen Probleme beim Download der IDE fürs Programmieren auf und konnte somit heute nicht in Java Programmieren. Esstellten sich die Bemühungen zur Verbesserung meines Snake Spiels und zur Behebung von Bugs als herausfordernder als erwartet. Trotz langer Fehleranalyse bleibt das Problem bestehen, dass das Spiel nicht ordnungsgemäss startet und dass das Spiel nicht in einem Loop versetzt ist. Es werden weitere Anpassungen benötigt, um diese Probleme zu lösen und mein Snake Spiel zu beenden. (74)
 
+Arbeitsspakete 03.01.2024:
+- [ ] Die IDE für Java herunterladen
+- [ ] Das Tutorial weiteranschauen für mehr wissen (if statements, logical operators)
+- [ ] Ein funktionales Programm für einen Notenrechner programmieren
+- [ ] Eine Test und Fehlerüberprüfungsphase führen (für meinen Notenrechner)
 
 
 

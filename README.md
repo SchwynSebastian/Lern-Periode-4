@@ -18,17 +18,18 @@ Heute habe ich über mein zukünftiges Projekt nachgedacht und bin zu dem Schlus
 2 | Java tutorial anschauen  | Auf die Website des Tutorials gehen  | Wissen für das Programmieren erlangt  | Nein  |
 3 | Buggs im Snake behoben  | Fehleranalyse durchführen  | Der Bugg der das Spiel zum Einstürzen bringt behebt  | Ja  |
 27.2.2024
-- [ ] Ein Java tutorial über die basics strudieren sodass ich ein notenrechner erstellen kann
-- [ ] mein wissen vom tutorial an einem Program fürs erstellen des Notenrechners anwenden
+- [x] Ein Java tutorial über die basics strudieren sodass ich ein notenrechner erstellen kann
+- [x] Mein wissen vom tutorial an einem Program fürs erstellen des Notenrechners anwenden
 - [ ] Mein Snake game verbessern, sodass ich am Anfang einen Knopf drücken muss sodass das Spiel startet und alles in einem Loop versetzen
-- [ ] Mein Bugg der am Anfang des Spiels passiert (dass der Snake erst nach 3 Früchte anfängt zu wachsen) beheben
+- [x] Mein Bugg der am Anfang des Spiels passiert (dass der Snake erst nach 5 Früchte anfängt zu wachsen) beheben
       
 | Testfall-Nummer	| Ausgangslage (Given) |	Eingabe (When)|	Ausgabe (Then)	| Erfüllt?|
 |-----------------|----------------------|----------------|-----------------|---------|
-1 |   |   |   |   |
-2 |   |   |   |   |
-3 |   |   |   |   |
-4 |   |   |   |   |
+1 | Ein Java tutorial über die basics strudieren sodass ich ein notenrechner erstellen kann  | Das Tutorial von Bro Code anschauen  | Info für den Grundaufbau Javas erlangen  | Ja  |
+2 | Mein wissen vom tutorial an einem Program fürs erstellen des Notenrechners anwenden  | 6 Zahlen eintippen  | der Durchschnitt der Zahlen  | Ja  |
+3 | Mein Snake game verbessern, sodass ich am Anfang einen Knopf drücken muss sodass das Spiel startet und alles in einem Loop versetzen  | den Code in einer Loop versetzten und ein start befehl hinzufügen  | der Spieler startet mit einer GUI und kann das Spiel wiederhollen nach dem Tod  | Nein  |
+4 | Mein Bugg der am Anfang des Spiels passiert (dass der Snake erst nach 5 Früchte anfängt zu wachsen) beheben  | Fehleranalayse durchführen  | Snake wird nach einer Frucht grösser  | Nein  |
+
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt

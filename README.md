@@ -33,11 +33,26 @@ Heute habe ich über mein zukünftiges Projekt nachgedacht und bin zu dem Schlus
 
 ✍️heute habe ich erfolgreich grundlegende Java-Kenntnisse aus einem Tutorial gelernt, um einen einfachen Notenrechner zu erstellen. Allerdings kamen Probleme beim Download der IDE fürs Programmieren auf und konnte somit heute nicht in Java Programmieren. Esstellten sich die Bemühungen zur Verbesserung meines Snake Spiels und zur Behebung von Bugs als herausfordernder als erwartet. Trotz langer Fehleranalyse bleibt das Problem bestehen, dass das Spiel nicht ordnungsgemäss startet und dass das Spiel nicht in einem Loop versetzt ist. Ich habe es jedoch geschaft, es zu programmieren, dass man am Anfang 2 Früchte essen muss (aufwärmen) um grösser zu werden. (74)
 
-Arbeitsspakete 03.01.2024:
+Arbeitsspakete 07.03.2024:
 - [ ] Die IDE für Java herunterladen
-- [ ] Das Tutorial weiteranschauen für mehr wissen (if statements, logical operators)
-- [ ] Ein funktionales Programm für einen Notenrechner programmieren
-- [ ] Eine Test und Fehlerüberprüfungsphase führen (für meinen Notenrechner)
+- [x] Das Tutorial weiteranschauen für mehr wissen (if statements, logical operators)
+- [x] Die Dokumentation für das Modul 187 (OBA) fertig dokumentieren (Datenträger, Dateisysteme, Datenablage).
+- [x] Im Fach Mathe Potenzen und Wurzeln für die Prüfung am Montag lernen
+
+| Testfall-Nummer	| Ausgangslage (Given) |	Eingabe (When)|	Ausgabe (Then)	| Erfüllt?|
+|-----------------|----------------------|----------------|-----------------|---------|
+1 | Die IDE für Java herunterladen  | Installation der Software  | Programmieren in der Software  | Nein  |
+2 | Das Tutorial weiteranschauen für mehr wissen (if statements, logical operators)  | if statements und logical operators anschauen  | Das Wissen anwenden  | Ja  |
+3 | Die Dokumentation für das Modul 187 (OBA) fertig dokumentieren (Datenträger, Dateisysteme, Datenablage).  | Die Dokumentation beenden  | Die Dokumenation abgeschlossen und abgegeben  | Ja  |
+4 | Im Fach Mathe Potenzen und Wurzeln für die Prüfung am Montag lernen  | Die Theorie und Notizen anschauen  | Die Grundlegen und formeln meistern  | Ja  |
+
+Heute habe ich das Tutorial zu if-Statements und logischen Operatoren fortgesetzt und mich eine Weile damit umgesetzt. Die Dokumentation für Modul 187 (OBA) habe ich auch fertiggestellt, was länger als gedacht brauchte. In den Letzten par Minuten habe ich mich noch für die Matheprüfung vorbereitet. Ich konnte die IDE nicht herunterladen, da es Probleme mit der Installation gab und dass ich zu viel Zeit für die Videos aufgebracht habe. Ich muss nächstes mal eine Einstellung ändern, sodass ich die IDE herunterladen kann. (83)
+
+Arbeitsspakete 14.03.2024:
+- [ ] Die IDe herunterladen
+- [ ] einen Notenrechner in der Sprache JAVA erstellen (kann zwischen 1 und 20 noten berechnen)
+- [ ] Das JAVA tutorial weiter anschauen
+- [ ] weiter am Notenrechner fortfahren, mit meinem neu ereigneten Wissen
 
 
 

@@ -49,10 +49,12 @@ Arbeitsspakete 07.03.2024:
 Heute habe ich das Tutorial zu if-Statements und logischen Operatoren fortgesetzt und mich eine Weile damit umgesetzt. Die Dokumentation für Modul 187 (OBA) habe ich auch fertiggestellt, was länger als gedacht brauchte. In den Letzten par Minuten habe ich mich noch für die Matheprüfung vorbereitet. Ich konnte die IDE nicht herunterladen, da es Probleme mit der Installation gab und dass ich zu viel Zeit für die Videos aufgebracht habe. Ich muss nächstes mal eine Einstellung ändern, sodass ich die IDE herunterladen kann. (83)
 
 Arbeitsspakete 14.03.2024:
-- [ ] Die IDe herunterladen
+- [x] Die IDe herunterladen
 - [ ] einen Notenrechner in der Sprache JAVA erstellen (kann zwischen 1 und 20 noten berechnen)
-- [ ] Das JAVA tutorial weiter anschauen
-- [ ] weiter am Notenrechner fortfahren, mit meinem neu ereigneten Wissen
+- [x] Das JAVA tutorial weiter anschauen
+- [x] weiter am Notenrechner fortfahren, mit meinem neu ereigneten Wissen
+
+Heute habe ich die IDE heruntergeladen und mir das Java-Tutorial weiter angeschaut. Besonders habe ich mich mit Schleifen, logischen Operatoren und Arrays beschäftigt, indem ich Videos angeschaut habe. Auch habe ich begonnen, einen Notenrechner in Java zu erstellen, obwohl ich ihn noch nicht fertigstellen konnte. Ich habe den Grundaufbau Javas grösstenteils verstanden und werden nächstes mal besser am Programm arbeiten können. (61)
 
 
 

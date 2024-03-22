@@ -57,10 +57,19 @@ Arbeitsspakete 14.03.2024:
 Heute habe ich die IDE heruntergeladen und mir das Java-Tutorial weiter angeschaut. Besonders habe ich mich mit Schleifen, logischen Operatoren und Arrays beschäftigt, indem ich Videos angeschaut habe. Auch habe ich begonnen, einen Notenrechner in Java zu erstellen, obwohl ich ihn noch nicht fertigstellen konnte. Ich habe den Grundaufbau Javas grösstenteils verstanden und werden nächstes mal besser am Programm arbeiten können. (61)
 
 
+Arbeitsspakete 22.03.2024:
+- [ ] Dokumentation für das Modul 187 fertig stellen
+- [ ] Java Tutorials über arrays und wrapper classes anschauen
+- [ ] Bei meinem Notenrechner fortfahren
+- [ ] Ein Java Tutorial zur konfiguration von objects und construction der IDE anschauen
 
 
 
- 
+ Arbeitsspakete 29.03.2024:
+- [ ] 
+- [ ] 
+- [ ]
+- [ ]
 
 Reflexion
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).

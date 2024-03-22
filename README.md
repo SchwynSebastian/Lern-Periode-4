@@ -58,18 +58,26 @@ Heute habe ich die IDE heruntergeladen und mir das Java-Tutorial weiter angescha
 
 
 Arbeitsspakete 22.03.2024:
-- [ ] Dokumentation für das Modul 187 fertig stellen
+- [x] Dokumentation für das Modul 187 fertig stellen
 - [ ] Java Tutorials über arrays und wrapper classes anschauen
-- [ ] Bei meinem Notenrechner fortfahren
-- [ ] Ein Java Tutorial zur konfiguration von objects und construction der IDE anschauen
+- [x] Bei meinem Notenrechner fortfahren
+- [x] Ein Java Tutorial zur konfiguration von objects und construction der IDE anschauen
+
+| Testfall-Nummer	| Ausgangslage (Given) |	Eingabe (When)|	Ausgabe (Then)	| Erfüllt?|
+|-----------------|----------------------|----------------|-----------------|---------|
+1 | Dokumentation für das Modul 187 fertig stellen  | Dokument bearbeiten  | ausgefülltes Dokument  | Ja  |
+2 | Java Tutorials über arrays und wrapper classes anschauen  | Video anschauen  | Das Wissen am Notenrechner anwenden  | Nein  |
+3 | Bei meinem Notenrechner fortfahren  | 3 Noten werden eingegeben  | Durchschnitt wird berechnet  | Ja  |
+4 | Ein Java Tutorial zur konfiguration von objects und construction der IDE anschauen  | Video zur konfiguration angeschaut  | die IDE konfiguriert  | Ja  |
+
+Ich habe Heute die Dokumentation für das Modul über das Thema Energieverbrauch und Internetzugangsarten fertig dokumentiert. Danach ich vorher noch ein paar Tutorials über die Konfiguration der IDE (sodass ich Zugriff auf bestimmte paths habe). Ich habe nachher bei meinem Notenrechner if else statements benutzt, um die Anzahl/Wert der Noten anzeigen zu lassen.
 
 
-
- Arbeitsspakete 29.03.2024:
-- [ ] 
-- [ ] 
-- [ ]
-- [ ]
+ Arbeitsspakete 5.04.2024:
+- [ ] Dokumentation für das Modudl 187 fertig bearbeiten
+- [ ] Java Tutorials über arrays und wrapper classes anschauen
+- [ ] Bei meinem Notnerechner code schreiben, dass den Durchschnitt von bis zu 10 Noten berechnet und dass man nur eine Zahl zwischen 1 und 6 reinschreiben kann -
+- [ ] und dass man nur eine Zahl zwischen 1 und 6 reinschreiben kann
 
 Reflexion
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).

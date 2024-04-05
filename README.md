@@ -74,10 +74,19 @@ Ich habe Heute die Dokumentation für das Modul über das Thema Energieverbrauch
 
 
  Arbeitsspakete 5.04.2024:
-- [ ] Dokumentation für das Modudl 187 fertig bearbeiten
-- [ ] Java Tutorials über arrays und wrapper classes anschauen
+- [x] Dokumentation für das Modudl 187 fertig bearbeiten
+- [x] Java Tutorials über arrays und wrapper classes anschauen
 - [ ] Bei meinem Notnerechner code schreiben, dass den Durchschnitt von bis zu 10 Noten berechnet und dass man nur eine Zahl zwischen 1 und 6 reinschreiben kann -
-- [ ] und dass man nur eine Zahl zwischen 1 und 6 reinschreiben kann
+- [x] und dass man nur eine Zahl zwischen 1 und 6 reinschreiben kann
 
 Reflexion
-Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
+Heute habe ich erfolgreich an meinen Arbeitspaketen gearbeitet, die Dokumentation für Modul 187 abgeschlossen und Java-Tutorials zu Arrays und Wrapper-Klassen durchgearbeitet. Beim Implementieren des Notenrechners stiess ich auf Schwierigkeiten, die Bedingungen zu setzen (z.b. das die Zahlen bei allen Werten den Durchschnitt berechnen kann und dass man das Programm nicht crashen kann). Dieses Projekt hat mir eine wertvolle Lernerfahrung zur Sprache Java gebracht.
+Ich habe im Verlaufe der LB 4 allgemein gut gearbeitet und viel gelernt, was fehlte, war meine Zuverlässigkeit im Arbeiten. Ich wurde manchmal von anderen Ideen während dem Programmieren abgelenkt.
+
+VBV: Ich muss meine Zeit besser einteilen: Ich arbeite zu viel an etwas, dass am Ende nicht so wichtig ist; ich soll mich zuerst dem Hauptthema wenden.
+
+neues Projekt für LB5: Ich werde mich mit einem kleinen Spiel in der Sprache JAVA befassen
+
+technisches: Ich will wissen wie man ein 3D spiel mit java programmiert und funktional ausführt 
+
+

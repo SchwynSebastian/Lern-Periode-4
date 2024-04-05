@@ -1,0 +1,96 @@
+import java.util.Scanner;
+import javax.swing.JOptionPane;
+
+public class Grader {
+	
+    
+    public Grader() {}
+    
+    public static void main(String[] args) {
+        
+        Scanner scanner = new Scanner(System.in);
+        
+        int punkte1 = getValidatedInput(scanner, "Bitte geben Sie die Note für das erste Fach ein: ");
+        int punkte2 = getValidatedInput(scanner, "Bitte geben Sie die Note für das zweite Fach ein: ");
+        int punkte3 = getValidatedInput(scanner, "Bitte geben Sie die Note für das dritte Fach ein: ");
+        
+        double durchschnitt = (punkte1 + punkte2 + punkte3) / 3.0;
+        
+        double note = punkteToNote(durchschnitt);
+        
+        if (note == -1) {
+            System.out.println("Ungültiger Durchschnitt");
+        } else {
+            System.out.println("Der Durchschnitt ist: " + durchschnitt);
+        }
+        
+        scanner.close();
+        
+    }
+    
+    public static int getValidatedInput(Scanner scanner, String prompt) {
+        int input;
+        do {
+            System.out.print(prompt);
+            while (!scanner.hasNextInt()) {
+                System.out.println("Ungültige Eingabe. Bitte geben Sie eine Zahl zwischen 1 und 6 ein.");
+                System.out.print(prompt);
+                scanner.next();
+            }
+            input = scanner.nextInt();
+            if(input < 1 || input > 6)
+                System.out.println("Ungültige Eingabe. Bitte geben Sie eine Zahl zwischen 1 und 6 ein.");
+        } while (input < 1 || input > 6);
+        return input;
+    }
+    
+    public static double punkteToNote(double durchschnitt) {
+        double note;
+        
+        if (durchschnitt >= 5.75 && durchschnitt <= 6) {
+            note = 1.25;
+        } else if (durchschnitt >= 5.5 && durchschnitt < 5.75) {
+            note = 1.5;
+        } else if (durchschnitt >= 5.25 && durchschnitt < 5.5) {
+            note = 1.75;
+        } else if (durchschnitt >= 5 && durchschnitt < 5.25) {
+            note = 2.0;
+        } else if (durchschnitt >= 4.75 && durchschnitt < 5) {
+            note = 2.25;
+        } else if (durchschnitt >= 4.5 && durchschnitt < 4.75) {
+            note = 2.5;
+        } else if (durchschnitt >= 4.25 && durchschnitt < 4.5) {
+            note = 2.75;
+        } else if (durchschnitt >= 4 && durchschnitt < 4.25) {
+            note = 3.0;
+        } else if (durchschnitt >= 3.75 && durchschnitt < 4) {
+            note = 3.25;
+        } else if (durchschnitt >= 3.5 && durchschnitt < 3.75) {
+            note = 3.5;
+        } else if (durchschnitt >= 3.25 && durchschnitt < 3.5) {
+            note = 3.75;
+        } else if (durchschnitt >= 3 && durchschnitt < 3.25) {
+            note = 4.0;
+        } else if (durchschnitt >= 2.75 && durchschnitt < 3) {
+            note = 4.25;
+        } else if (durchschnitt >= 2.5 && durchschnitt < 2.75) {
+            note = 4.5;
+        } else if (durchschnitt >= 2.25 && durchschnitt < 2.75) {
+            note = 4.75;
+        } else if (durchschnitt >= 2 && durchschnitt < 2.25) {
+            note = 5.0;
+        } else if (durchschnitt >= 1.75 && durchschnitt < 2) {
+            note = 5.25;
+        } else if (durchschnitt >= 1.5 && durchschnitt < 1.75) {
+            note = 5.5;
+        } else if (durchschnitt >= 1.25 && durchschnitt < 1.5) {
+            note = 5.75;
+        } else if (durchschnitt >= 1 && durchschnitt < 1.25) {
+            note = 6.0;
+        } else {
+            note = -1;
+        }
+        
+        return note;
+    }
+}
